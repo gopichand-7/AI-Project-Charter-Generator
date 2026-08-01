@@ -155,6 +155,72 @@ streamlit run app.py
 
 ---
 
+# 🧪 Sample Inputs
+
+You can use the following examples to quickly test the application.
+
+### Example 1
+
+**Project Title**
+
+```
+E-Commerce Website Development
+```
+
+**Project Description**
+
+```
+Develop a responsive e-commerce platform that allows customers to browse products, place orders, make secure online payments, and track deliveries.
+```
+
+---
+
+### Example 2
+
+**Project Title**
+
+```
+Hospital Management System
+```
+
+**Project Description**
+
+```
+Build a centralized hospital management system to manage patient records, appointments, billing, pharmacy, and staff operations.
+```
+
+---
+
+### Example 3
+
+**Project Title**
+
+```
+University Library Management System
+```
+
+**Project Description**
+
+```
+Develop a digital library system that enables students to search, borrow, reserve, and return books while allowing librarians to manage inventory efficiently.
+```
+
+---
+
+### Example 4
+
+**Project Title**
+
+```
+Employee Attendance Tracking System
+```
+
+**Project Description**
+
+```
+Create a web-based attendance system that records employee check-in and check-out times, generates attendance reports, and integrates leave management.
+```
+
 # 🚀 Future Improvements
 
 - DOCX Export
