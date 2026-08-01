@@ -10,7 +10,14 @@ This application helps project managers, business analysts, startup teams, and s
 
 **Application:** https://ai-project-charter-generator.streamlit.app
 
-> **Note:** This application is hosted on **Streamlit Community Cloud**. If it has been inactive for some time, the first visit may take **30–60 seconds** while the server wakes up. After that, the application loads normally.
+> ## ⚠️ Important
+> **This application is hosted on Streamlit Community Cloud.** If it has been inactive for some time, the first visit may take **30–60 seconds** while the server wakes up. After that, the application loads normally.
+
+---
+
+# 📸 Application Preview
+
+![AI Project Charter Generator Home](app-home.png)
 
 ---
 
@@ -63,8 +70,8 @@ AI-Project-Charter-Generator/
 ├── app.py
 ├── requirements.txt
 ├── README.md
+├── app-home.png
 ├── .gitignore
-├── assets/
 └── .env (Local only)
 ```
 
