@@ -11,7 +11,7 @@ This application helps project managers, business analysts, startup teams, and s
 **Application:** https://ai-project-charter-generator.streamlit.app
 
 > ## ⚠️ Important
-> **This application is hosted on Streamlit Community Cloud.** If it has been inactive for some time, the first visit may take **30–60 seconds** while the server wakes up. After that, the application loads normally.
+> **This application is hosted on Streamlit Community Cloud.** If the app has gone to sleep due to inactivity, you may see a wake-up screen. Simply click **"Yes, get this app back up!"** and wait about **30–60 seconds**. Once the app wakes up, it will open and function normally.
 
 ---
 
